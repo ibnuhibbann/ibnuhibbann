@@ -37,12 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ibnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnuhibbann&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌱 Currently Learning
 
 System Design, Advanced Laravel, Cloud Deployment
