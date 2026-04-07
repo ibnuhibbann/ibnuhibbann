@@ -8,146 +8,47 @@
 
 * 🎓 Informatics Engineering Student at STMIK Widya Cipta Dharma
 * 💼 Full Stack Developer focused on Laravel ecosystem
-* ⚙️ Experienced in building real-world web applications (government, business, and internal systems)
-* 🚀 Familiar with CI/CD workflows and deploying applications to VPS
+* ⚙️ Experienced in building real-world web applications
+* 🚀 Familiar with CI/CD workflows and VPS deployment
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend
-
-* Laravel 12
-* Laravel Fortify
-* Laravel Sanctum
-* REST API Development
-
-### 💻 Frontend
-
-* Vue.js
-* Inertia.js
-* Blade
-* JavaScript, AJAX
-* HTML, CSS
-
-### 🎨 UI Framework
-
-* Bootstrap (SB Admin 2)
-* Tailwind CSS
-
-### 🗄️ Database
-
-* MySQL
-* PostgreSQL
-* SQLite
-
-### 🚀 DevOps & Deployment
-
-* Git & GitHub
-* GitHub Actions (CI/CD)
-* VPS Deployment (Linux)
-* Docker (Laravel Sail)
-
-### 🧪 Tools
-
-* Postman
-* Laravel Telescope
+| Backend | Frontend | Database | DevOps |
+|---------|----------|----------|--------|
+| Laravel 12, REST API | Vue.js, Inertia.js, Blade | MySQL, PostgreSQL | Git, GitHub Actions, Docker |
+| Fortify, Sanctum | Tailwind CSS, Bootstrap | SQLite | VPS Linux |
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Summary)
 
-These projects are built for real-world use cases, focusing on performance, usability, and scalability.
-
----
-
-### 🔹 Apartment Management Web Application
-
-* Web-based apartment management system
-* Tenant and unit management
-* Administrative dashboard for property operations
-* Designed to streamline apartment business workflows
-
----
-
-### 🔹 Digital Village Web System
-
-* Web-based village information system
-* Population data dashboard & statistics
-* Administrative data management
-* Designed for government-level use cases
-
----
-
-### 🔹 Laravel Blog Application
-
-* Blog application built with Laravel
-* Full CRUD content management
-* Clean MVC architecture implementation
-* Suitable as a simple CMS platform
-
----
-
-### 🔹 RFID Employee Attendance System
-
-* Web-based attendance system integrated with RFID
-* Real-time monitoring dashboard
-* Employee data & attendance reporting
-
----
-
-### 🔹 Point of Sale (POS) Web Application
-
-* Web-based cashier system
-* Product & transaction management
-* Interactive admin dashboard
-
----
-
-### 🔹 Logistics Management System
-
-* Web-based logistics management system
-* Operational data tracking
-* Structured monitoring dashboard
-
----
-
-### 🔹 Digital Queue System
-
-* Web-based queue number system
-* Real-time display for service efficiency
-
----
-
-### 🔹 Badminton Court Booking System
-
-* Court availability monitoring
-* Booking schedule management
-* Web-based reservation system
+| Project | Description |
+|---------|-------------|
+| **Apartment Management** | Tenant & unit management system |
+| **Digital Village System** | Government population & admin dashboard |
+| **Laravel Blog** | CRUD blog with clean MVC architecture |
+| **RFID Attendance** | Real-time employee attendance tracking |
+| **POS System** | Web-based cashier & transaction management |
+| **Logistics Management** | Operational tracking & monitoring |
+| **Digital Queue** | Real-time queue number system |
+| **Badminton Booking** | Court reservation system |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ibnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnuhibann\&show_icons=true\&theme=tokyonight)
+![Ibnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibnuhibbann&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌱 Currently Learning
 
-* System Design & Scalable Architecture
-* Advanced Laravel (Queue, Cache, Optimization)
-* Cloud Deployment (AWS / VPS)
-
----
-
-## 📫 Contact
-
-* 📧 Email: (your email)
-* 💼 LinkedIn: (optional)
+System Design, Advanced Laravel, Cloud Deployment
 
 ---
 
 ## ⚡ Career Goal
 
-To become a Full Stack Laravel Developer capable of building scalable, secure, and production-ready systems.
+Become a Full Stack Laravel Developer building scalable, secure, production-ready systems.
